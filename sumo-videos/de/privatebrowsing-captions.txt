@@ -1,6 +1,6 @@
 1
 00:00:00,367  --> 00:00:05,200
-Angenommen, Sie nutzen den Rechner gemeinsam mit anderen und möchten beispielsweise online Einkaufen oder Online-Banking betreiben.
+Angenommen, Sie nutzen den Rechner gemeinsam mit anderen und möchten beispielsweise online einkaufen oder Online-Banking betreiben.
 
 2
 00:00:05,201 --> 00:00:08,333
