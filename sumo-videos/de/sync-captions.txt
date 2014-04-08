@@ -1,6 +1,6 @@
 1
 00:00:00,633  --> 00:00:06,500
-Mit Firefox-Sync können Sie von einem beliebigen Gerät auf Ihre Lesezeichen, Chronik und Passwörter zugreifen.
+Mit Firefox-Sync können Sie von einem beliebigen Gerät auf Ihre Lesezeichen, Chronik, Passwörter und mehr zugreifen.
 
 2
 00:00:06,501 --> 00:00:10,567
@@ -44,7 +44,7 @@ Jetzt finde ich den Tab, den ich auf meinem Rechner geöffnet hatte!
 
 12
 00:00:42,501 --> 00:00:47,100
-Sync ist ideal für Unterwegs und macht es sogar einfach, Ihre Daten zu übertragen,
+Sync ist ideal für unterwegs und macht es sogar einfach, Ihre Daten zu übertragen,
 
 13
 00:00:47,101 --> 00:00:49,500
