@@ -12,11 +12,11 @@ To find the bookmarks you've made, click the bookmarks menu.
 
 4
 00:00:08,801 --> 00:00:12,967
-By default, new bookmarks go in the unsorted bookmarks folder
+By default, new bookmarks go in the "Unsorted Bookmarks" folder
 
 5
 00:00:12,968 --> 00:00:15,500
-and also show up under recently bookmarked.
+and also show up under "Recently Bookmarked".
 
 6
 00:00:15,501 --> 00:00:20,533
