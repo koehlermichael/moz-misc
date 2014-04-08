@@ -40,4 +40,4 @@ Sie können von hier aus auch das Internet durchsuchen. Geben sie einfach einen 
 
 11
 00:00:36,068 --> 00:00:40,067
-Mit der intelligenten Adressleiste können Sie einfach mehr Surfen und dabei weniger Tippen.
+Mit der intelligenten Adressleiste können Sie einfach mehr surfen und dabei weniger tippen.
