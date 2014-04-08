@@ -4,7 +4,7 @@ Lesezeichen sind ideal, um Ihre Lieblingsseiten zu speichern.
 
 2
 00:00:02,901 --> 00:00:05,133
-Um eines anzulegen, klicken Sie einfach auf den Stern.
+Um eines anzulegen, klicken Sie auf den Stern.
 
 3
 00:00:05,134 --> 00:00:08,800
@@ -16,7 +16,7 @@ Standardmäßig landen neue Lesezeichen im Ordner „Unsortierte Lesezeichen“
 
 5
 00:00:12,968 --> 00:00:15,500
-und erscheinen auch unter „kürzlich als Lesezeichen gesetzt“.
+und erscheinen auch unter „Kürzlich als Lesezeichen gesetzt“.
 
 6
 00:00:15,501 --> 00:00:20,533
@@ -40,4 +40,4 @@ Und wenn das nicht reicht,
 
 11
 00:00:34,368 --> 00:00:38,667
-geben Sie etwas in die Intelligente Adressleiste ein, und Firefox findet auch Ihre Lesezeichen.
+geben Sie etwas in die „Intelligente Adressleiste“ ein, und Firefox findet auch Ihre Lesezeichen.
