@@ -1,6 +1,6 @@
 1
 00:00:00,900  --> 00:00:04,367
-Wir nennen die Adressleiste von Firefox gerne die Intelligente Adressleiste,
+Wir nennen die Adressleiste von Firefox gerne die „Intelligente Adressleiste“,
 
 2
 00:00:04,368 --> 00:00:06,900
@@ -24,7 +24,7 @@ Klicken Sie einfach eine der Websites an, und sie wird sofort aufgerufen.
 
 7
 00:00:22,301 --> 00:00:25,367
-Und die Intelligente Adressleiste wird besser, je öfter Sie sie benutzen.
+Und die „Intelligente Adressleiste“ wird besser, je öfter Sie sie benutzen.
 
 8
 00:00:25,368 --> 00:00:29,400
@@ -40,4 +40,4 @@ Sie können von hier aus auch das Internet durchsuchen. Geben sie einfach einen 
 
 11
 00:00:36,068 --> 00:00:40,067
-Mit der Intelligenten Adressleiste können Sie einfach mehr Surfen und dabei weniger Tippen.
+Mit der intelligenten Adressleiste können Sie einfach mehr surfen und dabei weniger tippen.
