@@ -1,0 +1,27 @@
+1
+00:00:01,700  --> 00:00:05,867
+Mit der Firefox-Suchleiste können Sie ganz einfach eine beliebige Suchmaschine verwenden.
+
+2
+00:00:05,868 --> 00:00:09,600
+Klicken Sie einfach auf das Aufklappmenü und wählen Sie eine andere Suchmaschine.
+
+3
+00:00:09,601 --> 00:00:12,800
+Dieses Menü steuert alle Suchfunktionen in Firefox – 
+
+4
+00:00:12,801 --> 00:00:19,167
+die Suchleiste, die Startseite, die Adressleiste oder beim Rechtsklick auf ein Wort.
+
+5
+00:00:19,168 --> 00:00:21,900
+Und wenn die integrierten Suchmaschinen nicht genug sind,
+
+6
+00:00:21,901 --> 00:00:28,433
+können Sie viele beliebte Suchmaschinen hinzufügen, indem Sie deren Seite aufrufen und die Suchmaschine über das Menü der Suchleiste hinzufügen.
+
+7
+00:00:28,434 --> 00:00:30,933
+Versuchen Sie das mal mit einem anderen Browser.

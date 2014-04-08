@@ -1,0 +1,35 @@
+1
+00:00:00,367  --> 00:00:05,200
+Angenommen, Sie nutzen den Rechner gemeinsam mit anderen und möchten beispielsweise online Einkaufen oder Online-Banking betreiben.
+
+2
+00:00:05,201 --> 00:00:08,333
+Das ist der perfekte Zeitpunkt für den Einsatz des privaten Modus.
+
+3
+00:00:08,334 --> 00:00:11,533
+Klicken Sie einfach auf das Menü und wählen Sie „Privates Fenster“.
+
+4
+00:00:11,534 --> 00:00:15,500
+Beachten Sie, dass private Fenster oben eine violette Maske haben.
+
+5
+00:00:15,501 --> 00:00:19,767
+Firefox speichert in einem privaten Fenster keine Daten über das, was Sie tun.
+
+6
+00:00:19,768 --> 00:00:24,600
+Dinge wie besuchte Seiten, Suchbegriffe oder Formulardaten.
+
+7
+00:00:24,601 --> 00:00:28,733
+Sie müssen aber wissen, dass Sie der private Modus im Internet nicht unsichtbar macht.
+
+8
+00:00:28,734 --> 00:00:33,200
+Ihr Internetanbieter oder Arbeitgeber kann immer noch verfolgen, welche Websites Sie aufrufen.
+
+9
+00:00:33,201 --> 00:00:39,567
+Wenn Sie nicht mehr privat Surfen möchten, schließen Sie einfach das Fenster und nutzen Sie Firefox ganz normal weiter.

@@ -1,0 +1,51 @@
+1
+00:00:00,633  --> 00:00:06,500
+Mit Firefox-Sync können Sie von einem beliebigen Gerät auf Ihre Lesezeichen, Chronik und Passwörter zugreifen.
+
+2
+00:00:06,501 --> 00:00:10,567
+Öffnen Sie zunächst das Menü und klicken Sie auf „Bei Sync anmelden“.
+
+3
+00:00:10,568 --> 00:00:14,500
+Klicken Sie dann auf „Einführung“ und erstellen Sie ein Firefox-Konto.
+
+4
+00:00:15,433 --> 00:00:17,500
+Wir schicken Ihnen eine Bestätigungs-E-Mail.
+
+5
+00:00:17,501 --> 00:00:21,567
+Wenn Sie die E-Mail erhalten, klicken Sie auf den Link und Sie sind startklar.
+
+6
+00:00:21,568 --> 00:00:26,667
+Jetzt können Sie sich auf einem anderen Gerät in Ihrem Konto anmelden und auf alle Ihre Daten zugreifen.
+
+7
+00:00:26,668 --> 00:00:29,500
+Hier ist Firefox auf meinem Android-Gerät.
+
+8
+00:00:29,501 --> 00:00:33,200
+Ich berühre das Menü, Einstellungen und dann Sync.
+
+9
+00:00:33,201 --> 00:00:36,750
+Ich berühre „Einführung“, wähle den Anmeldelink
+
+10
+00:00:37,300 --> 00:00:38,700
+und schon bin ich fertig.
+
+11
+00:00:39,000 --> 00:00:42,500
+Jetzt finde ich den Tab, den ich auf meinem Rechner geöffnet hatte!
+
+12
+00:00:42,501 --> 00:00:47,100
+Sync ist ideal für Unterwegs und macht es sogar einfach, Ihre Daten zu übertragen,
+
+13
+00:00:47,101 --> 00:00:49,500
+wenn Sie Firefox auf einem neuen Rechner einrichten.

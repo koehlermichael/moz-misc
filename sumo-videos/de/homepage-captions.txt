@@ -1,0 +1,35 @@
+1
+00:00:01,500  --> 00:00:05,767
+Wenn Sie Firefox öffnen, oder die Schaltfläche „Startseite“ anklicken, erscheint diese praktische Startseite.
+
+2
+00:00:05,768 --> 00:00:10,167
+Sie verfügt über ein großes Suchfeld in der Mitte, das die von Ihnen ausgewählte Suchmaschine verwendet.
+
+3
+00:00:10,168 --> 00:00:12,333
+Standardmäßig verwendet es Google.
+
+4
+00:00:12,334 --> 00:00:18,467
+Natürlich müssen Sie diese Seite nicht als Startseite verwenden, Sie können jede beliebige Website einstellen.
+
+5
+00:00:18,468 --> 00:00:23,433
+Sie müssen nur die Website öffnen, und den Tab auf die Schaltfläche „Startseite“ ziehen.
+
+6
+00:00:23,434 --> 00:00:25,433
+Klicken Sie auf „Ja“ und Sie sind fertig.
+
+7
+00:00:25,434 --> 00:00:29,767
+Und wenn Sie jemals Ihre Meinung ändern und diese tolle Firefox-Seite wieder möchten,
+
+8
+00:00:29,768 --> 00:00:35,500
+öffnen Sie das Menü, klicken Sie auf Einstellungen, Allgemein und „Standard wiederherstellen“.
+
+9
+00:00:37,267 --> 00:00:38,633
+So einfach ist das.

@@ -1,0 +1,47 @@
+1
+00:00:00,500  --> 00:00:04,500
+Add-ons sind wie Apps, die Sie installieren, um Firefox Funktionen hinzuzufügen.
+
+2
+00:00:04,501 --> 00:00:09,500
+Mit ihnen können Sie Preise vergleichen, den Wetterbericht sehen, Musik hören und mehr.
+
+3
+00:00:09,501 --> 00:00:14,000
+Probieren wir es aus. Klicken Sie auf das Menü und wählen Sie „Add-ons“.
+
+4
+00:00:14,001 --> 00:00:17,000
+Hier kann ich Add-ons durchstöbern, oder nach ihnen suchen.
+
+5
+00:00:17,500 --> 00:00:20,000
+Das sieht interessant aus – Lightbeam.
+
+6
+00:00:20,800 --> 00:00:24,000
+Ich klicke auf die Schaltfläche „Zu Firefox hinzufügen“, um es zu installieren.
+
+7
+00:00:27,500 --> 00:00:32,000
+Beachten Sie, dass eine neue Schaltfläche zur Symbolleiste hinzugefügt wurde, mit der ich es öffnen kann.
+
+8
+00:00:32,150 --> 00:00:37,500
+Das ist klasse, aber ich glaube, ich muss nicht ständig darauf zugreifen können.
+
+9
+00:00:37,501 --> 00:00:42,233
+Kein Problem, Firefox lässt sich leicht anpassen, ich kann das also schnell
+
+10
+00:00:42,234 --> 00:00:46,333
+ins Menü verschieben. Dann ist es nicht mehr im Weg, aber trotzdem schnell erreichbar.
+
+11
+00:00:46,334 --> 00:00:50,500
+Es gibt Tausende von Add-ons, um genau die von Ihnen gewünschten Funktionen hinzuzufügen.
+
+12
+00:00:50,501 --> 00:00:51,867
+Probieren Sie sie aus.
