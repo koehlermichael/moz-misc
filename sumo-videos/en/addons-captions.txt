@@ -28,15 +28,15 @@ Notice that it added a new button to the toolbar that I can use to open it.
 
 8
 00:00:32,150 --> 00:00:37,500
-This is great, but I don't think I need to have access to it all the time.
+This is great, but I don't think I need to have access to this all the time.
 
 9
 00:00:37,501 --> 00:00:42,233
-That's ok, Firefox is easy to customize so I can quickly move this
+That's okay, Firefox is easy to customize so I can quickly move this
 
 10
 00:00:42,234 --> 00:00:46,333
-to the menu where it's out of the way but still easy to get to.
+to the menu where it's out of the way, but still easy to get to.
 
 11
 00:00:46,334 --> 00:00:50,500
